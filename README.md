@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijay Sharan</h1>
+<h1 align="center">Hi👋, I'm Vijay Sharan</h1>
 <h3 align="center">### 👋 Hi there! I’m Vijay, A passionate full stack and open‑source coder from Chennai, India. I love building full‑stack apps, exploring NLP & GenAI, and solving algorithmic puzzles in Python. As VP–Speaker & Core Tech Lead at CodeKrafters, I’ve led workshops, mentored peers, and helped grow our tech community. I’m always learning, experimenting, and shipping code. Let's build something impactful together! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjsharan&label=Profile%20views&color=0e75b6&style=flat" alt="vjsharan" /> </p>
