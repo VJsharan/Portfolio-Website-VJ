@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [github.com/vjsharan](github.com/vjsharan)
 
-- 💬 Ask me about **Winning hackathons with CodeKrafters, my NLP project on Reddit fake news detection, my multiplayer quiz app (BloodyQuiz), or how I led teams from concept to delivery.**
+- 💬 Ask me about **anything tbh, I don't really mind.**
 
 - 📫 How to reach me **11224.vijaysharan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19n95JDRHQPzd9NCxmF4UcyveNmiOOGc4/view?usp=sharing](https://drive.google.com/file/d/19n95JDRHQPzd9NCxmF4UcyveNmiOOGc4/view?usp=sharing)
+- 📄 My Resume 👉 [https://drive.google.com/file/d/19n95JDRHQPzd9NCxmF4UcyveNmiOOGc4/view?usp=sharing](https://drive.google.com/file/d/19n95JDRHQPzd9NCxmF4UcyveNmiOOGc4/view?usp=sharing)
 
 - ⚡ Fun fact **about me is that I thrive on internet meme culture and reaction images**
 
