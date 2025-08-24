@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles using Tailwind @apply */
+.skills-section {
+  @apply flex flex-col items-center;
+}
+
+.skills-wrapper {
+  @apply flex flex-wrap gap-1;
+}
+
+.skill-badge {
+  @apply flex items-center gap-2 border border-black rounded-lg px-3 py-1 bg-white text-black w-fit;
+}
+
+.skill-label {
+  @apply text-sm font-medium;
+}
+
+.main-sections {
+  @apply text-xl font-medium mb-8 no-underline hover:font-bold hover:underline hover:text-black transition-all duration-150;
+}
+
+
+.main-sections:hover {
+  @apply font-bold underline text-black;
+}
+
+@keyframes bounce-smooth {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+
+.animate-bounce-smooth {
+  animation: bounce-smooth 0.5s ease-in-out infinite;
+}
